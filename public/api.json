@@ -1,0 +1,12 @@
+[{
+  "agotado":false,"categoria":"Camisetas","id":0,"precio":20,"title":"TWE Magenta","url":"articulos/pinkFrnt.jpg"},
+  {"agotado":false,"categoria":"Camisetas","id":1,"precio":20,"title":"TWE Magenta","url":"articulos/pinkFrnt.jpg"},
+  {"agotado":true,"categoria":"Camisetas","id":2,"precio":20,"title":"TWE Verde","url":"articulos/BckVerde.png"},
+  {"agotado":true,"categoria":"Camisetas","id":3,"precio":40,"title":"Especial edition TWE","url":"articulos/camisaPNG.png"},
+  {"agotado":false,"categoria":"Gorros","id":4,"precio":15,"title":"Gorro TWE","url":"articulos/gorro1.png"},
+  {"agotado":false,"categoria":"Gorros","id":5,"precio":15,"title":"Gorro TWE","url":"articulos/gorro2.png"},
+  {"agotado":false,"categoria":"Gorras","id":6,"precio":15,"title":"Gorra verde","url":"articulos/truckverde.jpg"},
+  {"agotado":false,"categoria":"Gorras","id":7,"precio":15,"title":"Gorra rosada","url":"articulos/truckrosada.png"},
+  {"agotado":false,"categoria":"Busos","id":8,"precio":45,"title":"Hoodie TWE","url":"articulos/buzo1.jpg"},
+  {"agotado":false,"categoria":"Busos","id":9,"precio":45,"title":"Hoodie TWE","url":"articulos/buzo2.jpg"},
+  {"agotado":false,"categoria":"Gorras","id":10,"precio":15,"title":"Gorra beisbolera","url":"articulos/beisbolera.jpg"}]
